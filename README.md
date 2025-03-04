@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakp-rathore&label=Profile%20views&color=0e75b6&style=flat" alt="Avanish-patidar" /> </p>
 
-- 🔭 I’m currently working on ** Placement Preparation APP**
+- 🔭 I’m currently working on ** https://github.com/Avanishpatidar/ipl-chatbot**
 
 - 🌱 I’m currently learning **Django**
 
