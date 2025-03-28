@@ -1,32 +1,49 @@
-<h1 align="center">Hi 👋, I'm Avanish Patidar</h1>
-<h3 align="center">A passionate Full stake developer from India</h3>
+# 👋 Hey there, I'm Avanish Patidar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakp-rathore&label=Profile%20views&color=0e75b6&style=flat" alt="Avanish-patidar" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=24&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;MERN+Stack+Enthusiast+💻;Building+Digital+Experiences+✨" />
+</div>
 
-- 🔭 I’m currently working on ** https://github.com/Avanishpatidar/ipl-chatbot**
+## 🌟 About Me
 
-- 🌱 I’m currently learning **Django**
+Passionate full-stack developer transforming ideas into elegant, efficient web solutions. Currently diving deep into the MERN stack and creating innovative digital experiences.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Avanishpatidar?tab=repositories](https://github.com/Avanishpatidar?tab=repositories)
+### 💻 Tech Stack
 
-- 💬 Ask me about **Python, Django ,java **
-
-- 📫 How to reach me **Avanishpatidar07@gmail.com**
-
-- ⚡ Fun fact **We spend a year on the toilet in our lifetime.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a target="_blank" href="https://dev.to/deepakprathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to/deepakprathore" height="30" width="40" /></a> -->
-<a href="https://twitter.com/Avanish_patidar?t=iSehcXUR6CY96D0_b-BBOQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Avanish-Patidar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/avanish-patidar-b3ba2b230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avanish-patidar-b3ba2b230" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,python,html,css,tailwind,git,docker" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### 🚀 Projects & Exploration
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Avanishpatidar&show_icons=true&locale=en&layout=compact" alt="Avanishpatidar" /></p>
+- 🔭 Currently working on exciting MERN stack projects
+- 🌱 Continuously learning and expanding my technical skills
+- 👨‍💻 All projects available on [GitHub](https://github.com/Avanishpatidar)
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakp-rathore&show_icons=true&locale=en" alt="deepakp-rathore" /></p> -->
+### 📊 GitHub Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Avanishpatidar&" alt="deepakp-rathore" /></p>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avanishpatidar&layout=compact&theme=algolia" alt="Avanish's Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avanishpatidar&show_icons=true&theme=algolia" alt="Avanish's GitHub Stats" />
+</p>
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/Avanish_patidar" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/avanish-patidar-b3ba2b230/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:Avanishpatidar07@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+### 🌐 Explore More
+
+- 🖥️ Personal Website: [avanishpatidar.me](https://avanishpatidar.me)
+- 📂 Full Portfolio: [GitHub Repositories](https://github.com/Avanishpatidar)
