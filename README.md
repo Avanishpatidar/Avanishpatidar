@@ -22,15 +22,18 @@
 | **[RentPrompts](https://rentprompts.com)** | An AI marketplace and app studio to learn, create and earn with AI. I started here as a GenAI intern in 2025 and now lead the agentic work: multi-agent workflows, tool-using agents with memory, and production prompt systems. |
 | **[Yashraj Books](https://yashrajbooks.com)** | A digital bookstore for CA, CS, CMA and commerce students: buy a title or a package and read it instantly on any device. |
 
-### Things I've built along the way
+### More that I've built
 
-- **TradeIQ** · A trading intelligence engine on real-time BSE/NSE data, with a custom strategy builder and LLM signal extraction over WebSockets and an async queue.
-- **AI Live Assist** · Real-time voice, video and shared drawing with an AI that understands the screen.
-- **[IPL Chatbot](https://github.com/Avanishpatidar/ipl-chatbot)** · Ask cricket questions in plain English; it writes the SQL over 300k+ rows of IPL data.
-- **[Forgy](https://github.com/Avanishpatidar/Forgy-AI-editor-)** · Edit images by talking to them.
-- **[Email Agent](https://github.com/Avanishpatidar/email-agent)** · An agent that reads and handles the inbox.
-- **[News Aggregator](https://github.com/Avanishpatidar/news-aggregator)** · My most-starred repo, from the early days.
-- **Aradhya Manpower** · My first client project, the one that started it all.
+| | |
+|---|---|
+| **[JobFit Resume](https://job-fit-resume.vercel.app)** | An AI résumé analyser and ATS checker that tells you how well you fit a job before you apply. |
+| **[MediBot](https://ai-pharma.vercel.app)** | An AI assistant for medicine and pharmacy questions. |
+| **[Free Flow](https://free-flow-iota.vercel.app)** | Open public chat rooms: jump in and talk in real time, no barriers on who can join. |
+| **[Savo Technologies](https://sava-technologies.vercel.app)** | The website for a digital and AI services studio. |
+| **[Error by Night](https://ebn-beta.vercel.app)** | The official site for the Error by Night community. |
+| **TradeIQ** | A trading intelligence engine on real-time BSE/NSE data, with a custom strategy builder and LLM signal extraction. |
+| **AI Live Assist** | Real-time voice, video and shared drawing with an AI that understands the screen. |
+| **Aradhya Manpower** | My first client project, the one that started it all. |
 
 ### How I work
 
