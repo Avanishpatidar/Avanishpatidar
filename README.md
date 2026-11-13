@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>I build AI agents that do real work, and the products around them.</b><br/>
-  Tech Lead at <a href="https://hiringant.ai">HiringAnt</a> · Agentic AI Lead at <a href="https://rentprompts.com">RentPrompts</a> · Indore, India
+  CTO at <a href="https://hiringant.ai">HiringAnt</a> · Agentic AI Lead at <a href="https://rentprompts.com">RentPrompts</a> · Indore, India
 </p>
 
 <p align="center">
