@@ -1,49 +1,57 @@
-# 👋 Hey there, I'm Avanish Patidar
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Manrope&weight=700&size=24&duration=3000&pause=500&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+🚀;MERN+Stack+Enthusiast+💻;Building+Digital+Experiences+✨" />
-</div>
-
-## 🌟 About Me
-
-Passionate full-stack developer transforming ideas into elegant, efficient web solutions. Currently diving deep into the MERN stack and creating innovative digital experiences.
-
-### 💻 Tech Stack
+<h1 align="center">Avanish Patidar</h1>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,javascript,python,html,css,tailwind,git,docker" />
-  </a>
+  <b>I build AI agents that do real work, and the products around them.</b><br/>
+  Tech Lead at <a href="https://hiringant.ai">HiringAnt</a> · Agentic AI Lead at <a href="https://rentprompts.com">RentPrompts</a> · Indore, India
 </p>
-
-### 🚀 Projects & Exploration
-
-- 🔭 Currently working on exciting MERN stack projects
-- 🌱 Continuously learning and expanding my technical skills
-- 👨‍💻 All projects available on [GitHub](https://github.com/Avanishpatidar)
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avanishpatidar&layout=compact&theme=algolia" alt="Avanish's Top Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Avanishpatidar&show_icons=true&theme=algolia" alt="Avanish's GitHub Stats" />
+  <a href="https://avanishpatidar.in"><img alt="Website" src="https://img.shields.io/badge/avanishpatidar.in-111111?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/avanish-patidar-b3ba2b230/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/Avanish_patidar"><img alt="X" src="https://img.shields.io/badge/@Avanish__patidar-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="mailto:avanish.patidar07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
-### 🤝 Connect With Me
+---
+
+### What I'm shipping
+
+| | |
+|---|---|
+| **[HiringAnt](https://hiringant.ai)** | An AI hiring platform with two sides. Job seekers upload a résumé and an agent searches the live web for jobs they fit; employers get screening, matching and a first-round AI interviewer. I lead the tech: Next.js 16, FastAPI, MongoDB, Celery, and a multi-agent pipeline on the OpenAI Agents SDK. |
+| **[RentPrompts](https://rentprompts.com)** | An AI marketplace and app studio to learn, create and earn with AI. I started here as a GenAI intern in 2025 and now lead the agentic work: multi-agent workflows, tool-using agents with memory, and production prompt systems. |
+| **[Yashraj Books](https://yashrajbooks.com)** | A digital bookstore for CA, CS, CMA and commerce students: buy a title or a package and read it instantly on any device. |
+
+### Things I've built along the way
+
+- **TradeIQ** · A trading intelligence engine on real-time BSE/NSE data, with a custom strategy builder and LLM signal extraction over WebSockets and an async queue.
+- **AI Live Assist** · Real-time voice, video and shared drawing with an AI that understands the screen.
+- **[IPL Chatbot](https://github.com/Avanishpatidar/ipl-chatbot)** · Ask cricket questions in plain English; it writes the SQL over 300k+ rows of IPL data.
+- **[Forgy](https://github.com/Avanishpatidar/Forgy-AI-editor-)** · Edit images by talking to them.
+- **[Email Agent](https://github.com/Avanishpatidar/email-agent)** · An agent that reads and handles the inbox.
+- **[News Aggregator](https://github.com/Avanishpatidar/news-aggregator)** · My most-starred repo, from the early days.
+- **Aradhya Manpower** · My first client project, the one that started it all.
+
+### How I work
+
+Agents are only useful when they survive production. So most of my time goes into the unglamorous parts: structured outputs, retries, evals, human-approval gates, cost tracking, and the queues and APIs that keep everything standing.
+
+### Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,python,nextjs,react,tailwind,fastapi,nodejs,mongodb,postgres,redis,docker,nginx,cloudflare,vercel&perline=14" alt="TypeScript, Python, Next.js, React, Tailwind, FastAPI, Node.js, MongoDB, PostgreSQL, Redis, Docker, Nginx, Cloudflare, Vercel" />
+</p>
+
+**Agentic:** OpenAI Agents SDK · LangGraph · LangChain · CrewAI · RAG · n8n · Celery
+
+### Writing
+
+- [The Rise of Agentic AI: From Chatbots to Autonomous Workers](https://avanishpatidar.in/writing)
+- [Coding in 2025: How AI Agents are Redefining Software Engineering](https://avanishpatidar.in/writing)
+- [Cursor vs Copilot: My Honest Take After 3 Months](https://avanishpatidar.in/writing)
+
+---
 
 <p align="center">
-  <a href="https://twitter.com/Avanish_patidar" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/avanish-patidar-b3ba2b230/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:Avanishpatidar07@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  Want to see how I think? <a href="https://avanishpatidar.in">Ask my AI twin</a>; it answers as me.
 </p>
-
-### 🌐 Explore More
-
-- 🖥️ Personal Website: [avanishpatidar.me](https://avanishpatidar.me)
-- 📂 Full Portfolio: [GitHub Repositories](https://github.com/Avanishpatidar)
