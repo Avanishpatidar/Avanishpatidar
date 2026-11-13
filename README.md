@@ -7,8 +7,8 @@
 
 <p align="center">
   <a href="https://avanishpatidar.in"><img alt="Website" src="https://img.shields.io/badge/avanishpatidar.in-111111?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/avanish-patidar-b3ba2b230/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/Avanish_patidar"><img alt="X" src="https://img.shields.io/badge/@Avanish__patidar-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/avanish-patidar/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/Avanish_patidar"><img alt="X" src="https://img.shields.io/badge/@Avanish__patidar-000000?style=flat-square&logo=x&logoColor=white" /></a>
   <a href="mailto:avanish.patidar07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
